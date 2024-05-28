@@ -1,0 +1,7 @@
+.employeeItem{
+    border-bottom: 1px solid #ccc;
+}
+
+.employeeItem:last-child{
+    border-bottom: none;
+}
